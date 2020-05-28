@@ -1,6 +1,6 @@
 # Experiments on various statistical distributions
 MATLAB codes I wrote to compare Experimental versus Theoretical results of various distributions.
-Included distributions are; Binomial, Exponential, Geometric, Normal, Poisson.
+Included distributions are; Binomial distribution, Exponential distribution, Geometric distribution, Normal distribution, Poisson distribution.
 
 ## Prerequisites
 
